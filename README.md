@@ -12,7 +12,6 @@
 
     zabbix告警媒介要增加参数：{ITEM.ID}  
 
-示例：  
-    
-    ![image](https://raw.githubusercontent.com/chow-q/zabbix-dingding/main/demo.png)
+示例:  
+![Alt text](https://raw.githubusercontent.com/chow-q/zabbix-dingding/main/demo.png)
     
