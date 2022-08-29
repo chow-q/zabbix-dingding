@@ -6,6 +6,7 @@
     
 原理：  
 
-    通过告警事件id获取当前监控项历史监控图像，上传到cos
+    通过告警事件id获取当前监控项历史监控图像，上传到cos  
+    
     ![image](https://github.com/chow-q/zabbix-dingding/blob/main/demo.png)
     
