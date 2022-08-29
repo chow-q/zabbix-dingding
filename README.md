@@ -14,5 +14,5 @@
 
 示例：  
     
-    ![image](https://github.com/chow-q/zabbix-dingding/blob/main/demo.png)
+    ![image](https://raw.githubusercontent.com/chow-q/zabbix-dingding/main/demo.png)
     
